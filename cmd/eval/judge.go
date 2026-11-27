@@ -11,7 +11,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/fuzirao-png/cosco-smu-ai-e-booking-growth/internal/growth"
+	"github.com/fuzirao-png/cosco-ai-e-booking/internal/growth"
 )
 
 var criteria = []struct{ key, description string }{

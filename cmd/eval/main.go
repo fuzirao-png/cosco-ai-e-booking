@@ -13,7 +13,7 @@ import (
 	"slices"
 	"strings"
 
-	"github.com/fuzirao-png/cosco-smu-ai-e-booking-growth/internal/growth"
+	"github.com/fuzirao-png/cosco-ai-e-booking/internal/growth"
 )
 
 type row struct {

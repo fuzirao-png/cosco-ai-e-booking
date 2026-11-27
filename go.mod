@@ -1,4 +1,4 @@
-module github.com/fuzirao-png/cosco-smu-ai-e-booking-growth
+module github.com/fuzirao-png/cosco-ai-e-booking
 
 go 1.24.0
 
